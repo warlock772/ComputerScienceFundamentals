@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Warrior()
+comment1.params=newMeleeDamage
+comment1.target=void\ setMeleeDamage(int)
+comment2.params=newRangedDamage
+comment2.target=void\ setRangedDamage(int)
+comment3.params=newMagicDamage
+comment3.target=void\ setMagicDamage(int)
+comment4.params=newArmorHead
+comment4.target=void\ setArmorHead(int)
+comment5.params=newArmorBody
+comment5.target=void\ setArmorBody(int)
+comment6.params=newArmorLeg
+comment6.target=void\ setArmorLeg(int)
+numComments=7
